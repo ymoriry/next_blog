@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をudemyで学習",
+      "content": "shincodeさんの教材で学習しています",
+      "createdAt": "2024/7/23"
+    },
+    {
+      "id": "json-server",
+      "title": "json-serverをudemyで学習",
+      "content": "shincodeさんの教材で学習しています",
+      "createdAt": "2024/7/24"
+    },
+    {
+      "id": "revalidate",
+      "title": "データの再検証",
+      "content": "再検証は、データ キャッシュを消去し、最新のデータを再取得するプロセスです。これは、データが変更され、最新の情報を確実に表示したい場合に便利です。",
+      "createdAt": "2024/7/25"
+    },
+    {
+      "id": "test",
+      "title": "test-title",
+      "content": "test-content",
+      "createdAt": "2024-07-24T03:38:19.198Z"
+    },
+    {
+      "id": "test2",
+      "title": "test2-title",
+      "content": "test2-content",
+      "createdAt": "2024-07-24T03:43:43.560Z"
+    },
+    {
+      "id": "test3",
+      "title": "test3-title",
+      "content": "test3-content",
+      "createdAt": "2024-07-24T03:44:18.872Z"
+    }
+  ]
+}
